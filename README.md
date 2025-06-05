@@ -1,1 +1,1 @@
-
+Welcome to my repository of case studies! This collection showcases my work across various domains, including data analysis, machine learning, digital transformation, manufacturing, supply chain, and product development. Each case study demonstrates a real-world challenge, the approach I used to solve it, and the impact it creates.
